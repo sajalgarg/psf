@@ -30,17 +30,17 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.php"><img src="images/psflogo.png" alt="Perfect Smile Faridabad"></a><span style="display:inline ;top:30px;font-color:white"></span>
+                    <a class="navbar-brand" href="index.html"><img src="images/psflogo.png" alt="Perfect Smile Faridabad"></a><span style="display:inline ;top:30px;font-color:white"></span>
                 </div>
                 
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="<?php echo ($page == "home" ? "active" : "")?>"><a href="index.php">Home</a></li>
-                        <li class="<?php echo ($page == "about-us" ? "active" : "")?>"><a href="about-us.php">About Us</a></li>
-                        <!-- <li class="<?php echo ($page == "services" ? "active" : "")?>"><a href="services.php">Services</a></li> -->
-                        <li class="<?php echo ($page == "portfolio" ? "active" : "")?>"><a href="portfolio.php">Gallery</a></li>
-                        <!-- <li><a href="blog.html">Blog</a></li>  -->
-                        <li class="<?php echo ($page == "contact-us" ? "active" : "")?>"><a href="contact-us.php">Contact</a></li>                        
+                        <li class=""><a href="index.html">Home</a></li>
+                        <li class=""><a href="about-us.html">About Us</a></li>
+                        <!-- <li class=""><a href="services.html">Services</a></li> -->
+                        <li class=""><a href="portfolio.html">Gallery</a></li>
+                        <!-- <li class=""><a href="blog.html">Blog</a></li>  -->
+                        <li class=""><a href="contact-us.html">Contact</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->

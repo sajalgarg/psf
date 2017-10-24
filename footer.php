@@ -16,13 +16,6 @@
 				  	</ol>
 
 					<div class="carousel-inner">
-						
-						
-						
-						
-						
-						
-						
 						<div class="item active" style="min-height:425px">
 							<div class=" col-md-offset-1 col-md-10">
                             <!-- <div class="row"> -->
@@ -134,16 +127,6 @@
                               </div>
                          </div> 
 					   </div>
-					   
-
-
-
-
-
-
-
-
-					   
 					</div>
 					
 					<a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
@@ -192,10 +175,10 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="about-us.php">About Us</a></li>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about-us.html">About Us</a></li>
                         <!-- <li><a href="#">Faq</a></li> -->
-                        <li><a href="contact-us.php">Contact Us</a></li>
+                        <li><a href="contact-us.html">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
