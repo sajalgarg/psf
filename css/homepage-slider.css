@@ -1,0 +1,134 @@
+#main-slider .carousel .item {height:630px !important;}
+	.responsive-image-1 .responsive-image-2 .responsive-image-3 .responsive-image-4 .responsive-image-5{
+    width: 100%;
+    background-size: 100% 100%;
+} 
+
+/* Retina display */
+@media screen and (min-width: 1024px) {
+    #main-slider .carousel .item {height:630px !important;}
+	.responsive-image-1{
+        background-image: url('../assets/slider/psf-slider1.jpg');
+    height: auto !important;
+	}
+    .responsive-image-2{
+        background-image: url('../assets/slider/psf-slider2.jpg');
+    height: auto !important;
+    }
+    .responsive-image-3{
+        background-image: url('../assets/slider/psf-slider3.jpg');
+    height: auto !important;
+    }
+    .responsive-image-4{
+        background-image: url('../assets/slider/psf-slider4.png');
+    height: auto !important;
+    }
+    .responsive-image-5{
+        background-image: url('../assets/slider/psf-slider5.jpg');
+    height: auto !important;
+    }
+}
+
+/* Desktop */
+@media screen and (min-width: 980px) and (max-width: 1024px){
+    #main-slider .carousel .item {height:630px !important;}
+	.responsive-image-1{
+        background-image: url('../assets/slider/psf-slider1.jpg');
+    height: auto !important;
+	}
+    .responsive-image-2{
+        background-image: url('../assets/slider/psf-slider2.jpg');
+    height: auto !important;
+    }
+    .responsive-image-3{
+        background-image: url('../assets/slider/psf-slider3.jpg');
+    height: auto !important;
+    }
+    .responsive-image-4{
+        background-image: url('../assets/slider/psf-slider4.png');
+    height: auto !important;
+    }
+    .responsive-image-5{
+        background-image: url('../assets/slider/psf-slider5.jpg');
+    height: auto !important;
+    }
+}
+
+/* Tablet */
+@media screen and (min-width: 760px) and (max-width: 980px){
+    #main-slider .carousel .item {height:630px !important;}
+	.responsive-image-1{
+        background-image: url('../assets/slider/psf-slider1.jpg');
+    height: auto !important;
+	}
+    .responsive-image-2{
+        background-image: url('../assets/slider/psf-slider2.jpg');
+    height: auto !important;
+    }
+    .responsive-image-3{
+        background-image: url('../assets/slider/psf-slider3.jpg');
+    height: auto !important;
+    }
+    .responsive-image-4{
+        background-image: url('../assets/slider/psf-slider4.png');
+    height: auto !important;
+    }
+    .responsive-image-5{
+        background-image: url('../assets/slider/psf-slider5.jpg');
+    height: auto !important;
+    }
+}
+
+/* Mobile HD */
+@media screen and (min-width: 350px) and (max-width: 760px){
+    #main-slider .carousel .item {height:630px !important;}
+	.responsive-image-1{
+        background-image: url('../assets/slider/psf-slider1t.jpg');
+    height: auto !important;
+	}
+    .responsive-image-2{
+        background-image: url('../assets/slider/psf-slider2t.jpg');
+    height: auto !important;
+    }
+    .responsive-image-3{
+        background-image: url('../assets/slider/psf-slider3t.jpg');
+    height: auto !important;
+    }
+    .responsive-image-4{
+        background-image: url('../assets/slider/psf-slider4t.png');
+    height: auto !important;
+    }
+    .responsive-image-5{
+        background-image: url('../assets/slider/psf-slider5t.jpg');
+    height: auto !important;
+    }
+}
+
+/* Mobile LD */
+@media screen and (max-width: 350px){
+    #main-slider .carousel .item {height:auto !important;}
+	.responsive-image-1{
+        background-image: url('../assets/slider/psf-slider1t.jpg') !important;
+		height: auto !important;
+    }
+    .responsive-image-2{
+        background-image: url('../assets/slider/psf-slider2t.jpg') !important;
+        height: auto !important;
+    }
+    .responsive-image-3{
+        background-image: url('../assets/slider/psf-slider3t.jpg') !important;
+        height: auto !important;
+    }
+    .responsive-image-4{
+        background-image: url('../assets/slider/psf-slider4t.png') !important;
+        height: auto !important;
+    }
+    .responsive-image-5{
+        background-image: url('../assets/slider/psf-slider5t.jpg') !important;
+        height: auto !important;
+    }
+} 
+
+
+/*-------------------*/
+
